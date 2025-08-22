@@ -11,7 +11,7 @@ public class Application {
 
     public static void main(String[] args) {
         String userName = "root";
-        String password = "@181712Ab";
+        String password = "******";
         String url = "jdbc:mysql://localhost:3306/jdbcDB";
 
         try {
@@ -82,3 +82,4 @@ public class Application {
         }
     }
 }
+
